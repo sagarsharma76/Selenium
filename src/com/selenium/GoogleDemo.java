@@ -42,7 +42,7 @@ public class GoogleDemo {
 		//driver.findElement(By.xpath("//id('gb')/x:div[1]/x:div[1]/x:div[2]/x:div[5]/x:div[1]/x:a/x:span"));
 		driver.findElement(By.xpath("//span[@class='gb_da gbii']")).click();
 		driver.findElement(By.id("gb_71")).click();
-		System.out.println("Logout Successfully");
+		System.out.println("Logout Successfully Again");
 
 	}
 
